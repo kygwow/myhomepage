@@ -19,7 +19,8 @@ Research Professor, Imaging Intelligence Laboratory, School of Mechanical Engine
 ## Publications
 
 <ul>
-{% for post in site.publications reversed %}
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+{% for post in sorted_publications %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
