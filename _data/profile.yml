@@ -25,12 +25,25 @@ research_interests:
   - Biomedical photonics and quantitative bioimage analysis
   - Fluorescence optical mapping and multimodal microscopy
 selected_capabilities:
-- Wave-optics and computational imaging simulation
-- Inverse problems and image reconstruction
-- Machine learning assisted optical design and reconstruction
-- Quantitative phase imaging and interferometric microscopy
-- Optical coherence microscopy, multiphoton microscopy, and SHG microscopy
-- MATLAB, Python, PyTorch, C++, ZEMAX, Fusion 360, and ImageJ
+- group: Computational imaging
+  items:
+  - Wave-optics simulation
+  - Inverse problems and image reconstruction
+  - Machine learning assisted optical design and reconstruction
+- group: Optical imaging
+  items:
+  - Quantitative phase imaging
+  - Interferometric microscopy
+  - Optical coherence microscopy
+  - Nonlinear microscopy
+- group: Tools
+  items:
+  - MATLAB
+  - Python
+  - PyTorch
+  - ZEMAX
+  - Fusion 360
+  - ImageJ
 bio_short: Researcher working on optical imaging systems, computational optics, and
   biomedical photonics.
 summary_academic: Research Professor at Seoul National University's Imaging Intelligence
