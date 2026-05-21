@@ -7,17 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Professor in the Imaging Intelligence Laboratory at Seoul National University, working with Prof. Seung Ah Lee. My research focuses on computational imaging, optical imaging systems, biomedical photonics, lensless imaging, quantitative phase microscopy, optical coherence microscopy, and wave-optics simulation.
+I am a Research Professor in the Imaging Intelligence Laboratory at Seoul National University, working with Prof. Seung Ah Lee. My current research focuses on computational imaging, inverse optical design, lensless and phase-coded imaging systems, quantitative phase imaging, and AI-assisted image reconstruction.
 
-My work connects optical system design, physics-based simulation, prototyping, and machine-learning assisted reconstruction for interdisciplinary imaging problems. Recent projects include lensless and high-dynamic-range computational imaging, reflection phase microscopy, virtual staining, and inverse design of optical elements.
+My work connects optical system modeling, wave-optics simulation, and data-driven reconstruction for imaging problems where hardware design and computational inference must be considered together. My previous research includes optical coherence microscopy, nonlinear microscopy, biomedical photonics, and quantitative analysis of cell-ECM interactions.
 
-## Research Interests
+## Current Research Interests
 
-- Computational imaging and wave-optics simulation
-- Lensless imaging and inverse optical design
-- Quantitative phase microscopy and interferometric imaging
-- Optical coherence microscopy and biomedical photonics
-- Nonlinear microscopy and cell-ECM image analysis
+- Computational imaging and inverse optical design
+- Lensless and phase-coded imaging systems
+- AI-assisted image reconstruction and virtual staining
+- Quantitative phase, interferometric, and coherent imaging
+- Physics-informed modeling of optical imaging systems
+
+## Previous Research Themes
+
+- Optical coherence microscopy for cell and tissue dynamics
+- Nonlinear microscopy for cell-ECM mechanical interactions
+- Biomedical photonics and quantitative bioimage analysis
+- Fluorescence optical mapping and multimodal microscopy
 
 ## Selected Links
 

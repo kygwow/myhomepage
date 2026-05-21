@@ -13,23 +13,34 @@ links:
   orcid: 0000-0002-5572-7544
   linkedin: ''
 research_interests:
-- Computational optics
-- Optical imaging systems
-- Lensless imaging
-- Quantitative phase microscopy
-- Biomedical photonics
+  current:
+  - Computational imaging and inverse optical design
+  - Lensless and phase-coded imaging systems
+  - AI-assisted image reconstruction and virtual staining
+  - Quantitative phase, interferometric, and coherent imaging
+  - Physics-informed modeling of optical imaging systems
+  previous:
+  - Optical coherence microscopy for cell and tissue dynamics
+  - Nonlinear microscopy for cell-ECM mechanical interactions
+  - Biomedical photonics and quantitative bioimage analysis
+  - Fluorescence optical mapping and multimodal microscopy
+selected_capabilities:
+- Wave-optics and computational imaging simulation
+- Inverse problems and image reconstruction
+- Machine learning assisted optical design and reconstruction
+- Quantitative phase imaging and interferometric microscopy
+- Optical coherence microscopy, multiphoton microscopy, and SHG microscopy
+- MATLAB, Python, PyTorch, C++, ZEMAX, Fusion 360, and ImageJ
 bio_short: Researcher working on optical imaging systems, computational optics, and
   biomedical photonics.
 summary_academic: Research Professor at Seoul National University's Imaging Intelligence
-  Laboratory, working on computational imaging, interferometric imaging, biomedical
-  imaging, lensless imaging, quantitative phase microscopy, optical coherence microscopy,
-  nonlinear microscopy, and biomedical image analysis. My work connects optical system
-  design, wave-optics simulation, prototyping, and quantitative analysis for interdisciplinary
-  imaging problems.
-summary_industry: Optical systems and computational imaging researcher at Seoul National
-  University's Imaging Intelligence Laboratory, experienced in imaging apparatus design,
-  physics-based simulation, rapid prototyping, and advanced image processing. Current
-  focus includes wave-optics simulation, inverse design of optical elements such as
-  phase masks and diffractive optics, lensless camera reconstruction, and machine-learning
-  assisted solutions for ill-posed imaging problems.
+  Laboratory, working on computational imaging, inverse optical design, lensless imaging,
+  quantitative phase imaging, and biomedical photonics. My research connects optical
+  system modeling, wave-optics simulation, and data-driven reconstruction for imaging
+  problems where hardware design and computational inference must be considered together.
+summary_industry: Optical systems and computational imaging researcher focused on
+  physics-informed simulation, inverse optical design, lensless imaging, and machine-learning
+  assisted image reconstruction. I translate research problems into imaging system
+  models, reconstruction pipelines, and experimental strategies for optical and biomedical
+  applications.
 visibility: public
