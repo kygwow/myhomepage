@@ -1,0 +1,35 @@
+name:
+  en: Yong Guk Kang
+  ko: Kang Yong Guk
+title: Research Professor
+affiliation: Imaging Intelligence Laboratory, School of Mechanical Engineering, Seoul
+  National University
+location: Seoul, South Korea
+email_public: ygkang@yonsei.ac.kr
+links:
+  website: ''
+  github: https://github.com/kygwow
+  google_scholar: ''
+  orcid: 0000-0002-5572-7544
+  linkedin: ''
+research_interests:
+- Computational optics
+- Optical imaging systems
+- Lensless imaging
+- Quantitative phase microscopy
+- Biomedical photonics
+bio_short: Researcher working on optical imaging systems, computational optics, and
+  biomedical photonics.
+summary_academic: Research Professor at Seoul National University's Imaging Intelligence
+  Laboratory, working on computational imaging, interferometric imaging, biomedical
+  imaging, lensless imaging, quantitative phase microscopy, optical coherence microscopy,
+  nonlinear microscopy, and biomedical image analysis. My work connects optical system
+  design, wave-optics simulation, prototyping, and quantitative analysis for interdisciplinary
+  imaging problems.
+summary_industry: Optical systems and computational imaging researcher at Seoul National
+  University's Imaging Intelligence Laboratory, experienced in imaging apparatus design,
+  physics-based simulation, rapid prototyping, and advanced image processing. Current
+  focus includes wave-optics simulation, inverse design of optical elements such as
+  phase masks and diffractive optics, lensless camera reconstruction, and machine-learning
+  assisted solutions for ill-posed imaging problems.
+visibility: public

@@ -1,0 +1,9 @@
+---
+title: "Non-Paraxial Layered Diffraction Simulator for Inverse Design of Lensless Imaging Optics"
+collection: publications
+permalink: /publication/2025-kang2025nonparaxial
+date: 2025-01-01
+venue: "Optica Imaging Congress 2025"
+---
+
+Non-Paraxial Layered Diffraction Simulator for Inverse Design of Lensless Imaging Optics
