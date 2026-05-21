@@ -11,6 +11,8 @@ redirect_from:
 
 - [Academic CV PDF]({{ "/files/Kang_Yongguk_CV.pdf" | relative_url }})
 - [Industry Resume PDF]({{ "/files/Kang_Yongguk_Resume.pdf" | relative_url }})
+- [국문 Academic CV PDF]({{ "/files/Kang_Yongguk_CV_KO.pdf" | relative_url }})
+- [국문 Industry Resume PDF]({{ "/files/Kang_Yongguk_Resume_KO.pdf" | relative_url }})
 
 ## Current Position
 

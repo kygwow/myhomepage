@@ -1,10 +1,13 @@
 name:
   en: Yong Guk Kang
-  ko: Kang Yong Guk
+  ko: 강용국
 title: Research Professor
+title_ko: 연구교수
 affiliation: Imaging Intelligence Laboratory, School of Mechanical Engineering, Seoul
   National University
+affiliation_ko: 서울대학교 기계공학부 Imaging Intelligence Laboratory
 location: Seoul, South Korea
+location_ko: 서울, 대한민국
 email_public: ygkang@snu.ac.kr
 links:
   website: ''
@@ -24,6 +27,18 @@ research_interests:
   - Nonlinear microscopy for cell-ECM mechanical interactions
   - Biomedical photonics and quantitative bioimage analysis
   - Fluorescence optical mapping and multimodal microscopy
+research_interests_ko:
+  current:
+  - 계산광학 및 역방향 광학 설계
+  - 렌즈리스 및 위상 부호화 영상 시스템
+  - AI 기반 영상 복원 및 가상 염색
+  - 정량 위상, 간섭계, 코히어런트 영상
+  - 광학 영상 시스템의 물리 기반 모델링
+  previous:
+  - 세포 및 조직 동역학 분석을 위한 광간섭 현미경
+  - 세포-ECM 기계적 상호작용 분석을 위한 비선형 현미경
+  - 바이오메디컬 포토닉스 및 정량 바이오영상 분석
+  - 형광 광학 매핑 및 다중모드 현미경
 selected_capabilities:
 - group: Computational imaging
   items:
@@ -44,6 +59,26 @@ selected_capabilities:
   - ZEMAX
   - Fusion 360
   - ImageJ
+selected_capabilities_ko:
+- group: 계산광학
+  items:
+  - 파동광학 시뮬레이션
+  - 역문제 및 영상 복원
+  - 머신러닝 기반 광학 설계 및 영상 복원
+- group: 광학 영상
+  items:
+  - 정량 위상 영상
+  - 간섭계 현미경
+  - 광간섭 현미경
+  - 비선형 현미경
+- group: 도구
+  items:
+  - MATLAB
+  - Python
+  - PyTorch
+  - ZEMAX
+  - Fusion 360
+  - ImageJ
 bio_short: Researcher working on optical imaging systems, computational optics, and
   biomedical photonics.
 summary_academic: Research Professor at Seoul National University's Imaging Intelligence
@@ -56,4 +91,10 @@ summary_industry: Optical systems and computational imaging researcher focused o
   assisted image reconstruction. I translate research problems into imaging system
   models, reconstruction pipelines, and experimental strategies for optical and biomedical
   applications.
+bio_short_ko: 광학 영상 시스템, 계산광학, 바이오메디컬 포토닉스를 연구하는 연구자.
+summary_academic_ko: 서울대학교 Imaging Intelligence Laboratory 연구교수로서 계산광학, 역방향 광학 설계,
+  렌즈리스 영상, 정량 위상 영상, 바이오메디컬 포토닉스를 연구하고 있습니다. 광학 시스템 모델링, 파동광학 시뮬레이션, 데이터 기반 복원을 연결하여
+  하드웨어 설계와 계산 추론을 함께 고려해야 하는 영상 문제를 다룹니다.
+summary_industry_ko: 물리 기반 시뮬레이션, 역방향 광학 설계, 렌즈리스 영상, 머신러닝 기반 영상 복원에 강점을 가진 광학 시스템
+  및 계산광학 연구자입니다. 연구 문제를 영상 시스템 모델, 복원 파이프라인, 실험 전략으로 구체화하여 광학 및 바이오메디컬 응용으로 연결합니다.
 visibility: public
