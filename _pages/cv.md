@@ -1,28 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Downloads
-
-- [Academic CV PDF]({{ "/files/Kang_Yongguk_CV.pdf" | relative_url }})
-- [Industry Resume PDF]({{ "/files/Kang_Yongguk_Resume.pdf" | relative_url }})
-- [국문 Academic CV PDF]({{ "/files/Kang_Yongguk_CV_KO.pdf" | relative_url }})
-- [국문 Industry Resume PDF]({{ "/files/Kang_Yongguk_Resume_KO.pdf" | relative_url }})
-
-## Current Position
-
-Research Professor, Imaging Intelligence Laboratory, School of Mechanical Engineering, Seoul National University.
-
-## Publications
-
-<ul>
-{% assign sorted_publications = site.publications | sort: "date" | reverse %}
-{% for post in sorted_publications %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+<section class="cv-download">
+  <p class="home-kicker">Curriculum vitae</p>
+  <h1>Academic CV</h1>
+  <p>The current academic CV is maintained from the same source data as this website and regenerated through the publication pipeline.</p>
+  <p><a class="home-button" href="{{ "/files/Kang_Yongguk_CV.pdf" | relative_url }}">Download Academic CV</a></p>
+</section>

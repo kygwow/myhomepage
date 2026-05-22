@@ -10,12 +10,6 @@
 main:
   - title: "Home"
     url: /
-
-  - title: "Publications"
-    url: /publications/
     
-  - title: "CV"
+  - title: "Academic CV"
     url: /cv/
-
-  - title: "Resume PDF"
-    url: /files/Kang_Yongguk_Resume.pdf
