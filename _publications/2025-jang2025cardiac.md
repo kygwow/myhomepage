@@ -3,7 +3,7 @@ title: "Cardiac fibroblast-mediated ECM remodeling regulates maturation in an in
 collection: publications
 category: manuscripts
 permalink: /publication/2025-jang2025cardiac
-date: 2025-01-01
+date: 2025-08-21
 venue: "Journal of Tissue Engineering"
 ---
 

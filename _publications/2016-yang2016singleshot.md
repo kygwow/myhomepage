@@ -3,7 +3,7 @@ title: "Single-shot digital holographic microscopy for quantifying a spatially-r
 collection: publications
 category: manuscripts
 permalink: /publication/2016-yang2016singleshot
-date: 2016-01-01
+date: 2016-12-12
 venue: "Optics Express"
 ---
 

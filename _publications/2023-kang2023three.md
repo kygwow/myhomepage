@@ -3,7 +3,7 @@ title: "Three-dimensional imaging in reflection phase microscopy with minimal ax
 collection: publications
 category: manuscripts
 permalink: /publication/2023-kang2023three
-date: 2023-12-04
+date: 2023-12-18
 venue: "Optics Express"
 ---
 
