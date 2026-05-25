@@ -3,7 +3,7 @@ title: "Optical coherence microscopy with a split-spectrum image reconstruction 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-kang2023optical
-date: 2023-01-01
+date: 2023-02-01
 venue: "Biomedical Optics Express"
 ---
 

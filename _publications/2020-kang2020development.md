@@ -3,7 +3,7 @@ title: "Development of a 3-D Physical Dynamics Monitoring System Using OCM with 
 collection: publications
 category: manuscripts
 permalink: /publication/2020-kang2020development
-date: 2020-01-01
+date: 2020-06-12
 venue: "Materials"
 ---
 
