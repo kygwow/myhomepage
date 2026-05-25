@@ -1,11 +1,10 @@
 name:
   en: Yong Guk Kang
   ko: 강용국
-title: Research Professor
-title_ko: 연구교수
-affiliation: Imaging Intelligence Laboratory, School of Mechanical Engineering, Seoul
-  National University
-affiliation_ko: 서울대학교 기계공학부 Imaging Intelligence Laboratory
+title: Senior Research Engineer
+title_ko: 책임연구원
+affiliation: Institute of Advanced Machines and Design, Seoul National University
+affiliation_ko: 서울대학교 정밀기계설계공동연구소
 location: Seoul, South Korea
 location_ko: 서울, 대한민국
 email_public: ygkang@snu.ac.kr
@@ -81,20 +80,21 @@ selected_capabilities_ko:
   - ImageJ
 bio_short: Researcher working on optical imaging systems, computational optics, and
   biomedical photonics.
-summary_academic: Research Professor at Seoul National University's Imaging Intelligence
-  Laboratory, working on computational imaging, inverse optical design, lensless imaging,
-  quantitative phase imaging, and biomedical photonics. My research connects optical
-  system modeling, wave-optics simulation, and data-driven reconstruction for imaging
-  problems where hardware design and computational inference must be considered together.
+summary_academic: Senior Research Engineer at Seoul National University's Institute
+  of Advanced Machines and Design, working with the Imaging Intelligence Laboratory
+  on computational imaging, inverse optical design, lensless imaging, quantitative
+  phase imaging, and biomedical photonics. My research connects optical system modeling,
+  wave-optics simulation, and data-driven reconstruction for imaging problems where
+  hardware design and computational inference must be considered together.
 summary_industry: Optical systems and computational imaging researcher focused on
   physics-informed simulation, inverse optical design, lensless imaging, and machine-learning
   assisted image reconstruction. I translate research problems into imaging system
   models, reconstruction pipelines, and experimental strategies for optical and biomedical
   applications.
 bio_short_ko: 광학 영상 시스템, 계산광학, 바이오메디컬 포토닉스를 연구하는 연구자.
-summary_academic_ko: 서울대학교 Imaging Intelligence Laboratory 연구교수로서 계산광학, 역방향 광학 설계,
-  렌즈리스 영상, 정량 위상 영상, 바이오메디컬 포토닉스를 연구하고 있습니다. 광학 시스템 모델링, 파동광학 시뮬레이션, 데이터 기반 복원을 연결하여
-  하드웨어 설계와 계산 추론을 함께 고려해야 하는 영상 문제를 다룹니다.
+summary_academic_ko: 서울대학교 정밀기계설계공동연구소 책임연구원으로서 Imaging Intelligence Laboratory와 함께
+  계산광학, 역방향 광학 설계, 렌즈리스 영상, 정량 위상 영상, 바이오메디컬 포토닉스를 연구하고 있습니다. 광학 시스템 모델링, 파동광학 시뮬레이션,
+  데이터 기반 복원을 연결하여 하드웨어 설계와 계산 추론을 함께 고려해야 하는 영상 문제를 다룹니다.
 summary_industry_ko: 물리 기반 시뮬레이션, 역방향 광학 설계, 렌즈리스 영상, 머신러닝 기반 영상 복원에 강점을 가진 광학 시스템
   및 계산광학 연구자입니다. 연구 문제를 영상 시스템 모델, 복원 파이프라인, 실험 전략으로 구체화하여 광학 및 바이오메디컬 응용으로 연결합니다.
 visibility: public
