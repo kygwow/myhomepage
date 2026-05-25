@@ -97,4 +97,24 @@ summary_academic_ko: 서울대학교 정밀기계설계공동연구소 책임연
   데이터 기반 복원을 연결하여 하드웨어 설계와 계산 추론을 함께 고려해야 하는 영상 문제를 다룹니다.
 summary_industry_ko: 물리 기반 시뮬레이션, 역방향 광학 설계, 렌즈리스 영상, 머신러닝 기반 영상 복원에 강점을 가진 광학 시스템
   및 계산광학 연구자입니다. 연구 문제를 영상 시스템 모델, 복원 파이프라인, 실험 전략으로 구체화하여 광학 및 바이오메디컬 응용으로 연결합니다.
+homepage:
+  lead: Senior Research Engineer, Institute of Advanced Machines and Design
+  lead_link_text: Seoul National University
+  lead_url: https://imaging.snu.ac.kr/team
+  kicker: Computational imaging / Optical systems / Biomedical photonics
+  summary: I develop computational imaging methods that connect optical system modeling,
+    inverse optical design, wave-optics simulation, and data-driven reconstruction.
+    My current work focuses on lensless and phase-coded imaging systems, quantitative
+    phase imaging, and AI-assisted image reconstruction for optical and biomedical
+    applications.
+  research_areas:
+  - title: Computational Microscopy
+    description: Quantitative phase, coherent, and interferometric microscopy methods
+      for information-rich optical measurements.
+  - title: Computational Optics
+    description: Wave-optics simulation, sampling-efficient propagation, and physics-informed
+      modeling of optical imaging systems.
+  - title: Inverse Optical Design
+    description: Joint reasoning over optical encoding and image reconstruction for
+      lensless, phase-coded, and compact imaging systems.
 visibility: public

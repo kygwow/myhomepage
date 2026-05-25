@@ -34,7 +34,7 @@ redirect_from:
 <section class="home-section">
   <h2>Links</h2>
   <p class="home-link-row">
-    <a href="https://scholar.google.com/citations?hl=ko&authuser=1&user=YH1e9WMAAAAJ">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?hl=ko&amp;authuser=1&amp;user=YH1e9WMAAAAJ">Google Scholar</a>
     <a href="https://orcid.org/0000-0002-5572-7544">ORCID</a>
     <a href="https://github.com/kygwow">GitHub</a>
     <a href="mailto:ygkang@snu.ac.kr">Email</a>
