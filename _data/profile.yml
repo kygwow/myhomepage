@@ -98,8 +98,9 @@ summary_academic_ko: 서울대학교 정밀기계설계공동연구소 책임연
 summary_industry_ko: 물리 기반 시뮬레이션, 역방향 광학 설계, 렌즈리스 영상, 머신러닝 기반 영상 복원에 강점을 가진 광학 시스템
   및 계산광학 연구자입니다. 연구 문제를 영상 시스템 모델, 복원 파이프라인, 실험 전략으로 구체화하여 광학 및 바이오메디컬 응용으로 연결합니다.
 homepage:
-  lead: Senior Research Engineer, Institute of Advanced Machines and Design
-  lead_link_text: Seoul National University
+  lead: Senior Research Engineer, Imaging Intelligence Laboratory @ Seoul National
+    University
+  lead_link_text: Imaging Intelligence Laboratory
   lead_url: https://imaging.snu.ac.kr/team
   kicker: Computational imaging / Optical systems / Biomedical photonics
   summary: I develop computational imaging methods that connect optical system modeling,

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <p class="home-lead">Senior Research Engineer, Institute of Advanced Machines and Design @ <a href="https://imaging.snu.ac.kr/team">Seoul National University</a></p>
+  <p class="home-lead">Senior Research Engineer, <a href="https://imaging.snu.ac.kr/team">Imaging Intelligence Laboratory</a> @ Seoul National University</p>
   <p class="home-kicker">Computational imaging / Optical systems / Biomedical photonics</p>
   <p>I develop computational imaging methods that connect optical system modeling, inverse optical design, wave-optics simulation, and data-driven reconstruction. My current work focuses on lensless and phase-coded imaging systems, quantitative phase imaging, and AI-assisted image reconstruction for optical and biomedical applications.</p>
 </section>
