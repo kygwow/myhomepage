@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "yongguk-kang-homepage",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Build scripts for Yong Guk Kang's personal academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/kygwow/myhomepage"
   },
   "keywords": [
     "jekyll",
@@ -16,10 +16,7 @@
     "Robert Zupko"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
-  },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://kygwow.github.io/myhomepage/",
   "engines": {
     "node": ">= 0.10.0"
   },
