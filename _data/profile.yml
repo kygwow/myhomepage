@@ -102,20 +102,43 @@ homepage:
     University
   lead_link_text: Imaging Intelligence Laboratory
   lead_url: https://imaging.snu.ac.kr/team
-  kicker: Computational imaging / Optical systems / Biomedical photonics
-  summary: I develop computational imaging methods that connect optical system modeling,
-    inverse optical design, wave-optics simulation, and data-driven reconstruction.
-    My current work focuses on lensless and phase-coded imaging systems, quantitative
-    phase imaging, and AI-assisted image reconstruction for optical and biomedical
-    applications.
+  kicker: Computational imaging / Forward models / Optical metrology
+  summary: 'I develop computational imaging methods around physics-aware forward models:
+    connecting wave-optics simulation, optical system design, and data-driven reconstruction
+    for problems where hardware encoding and computational inference must be designed
+    together.'
   research_areas:
-  - title: Computational Microscopy
-    description: Quantitative phase, coherent, and interferometric microscopy methods
-      for information-rich optical measurements.
-  - title: Computational Optics
-    description: Wave-optics simulation, sampling-efficient propagation, and physics-informed
-      modeling of optical imaging systems.
-  - title: Inverse Optical Design
-    description: Joint reasoning over optical encoding and image reconstruction for
-      lensless, phase-coded, and compact imaging systems.
+  - title: Forward-model-driven Computational Microscopy
+    description: Extending Fourier ptychography and reflection-mode computational
+      microscopy beyond scalar approximations toward high-NA, polarization-aware,
+      and metrology-oriented imaging.
+  - title: Vector Diffraction and Wave-Matter Interaction
+    description: Modeling polarization mixing, angle-dependent reflection, and local
+      wave-matter interaction for optical systems where simplified propagation models
+      become limiting.
+  - title: Differentiable Optics-Mechanics Simulation
+    description: Building simulation frameworks that couple geometry deformation,
+      wave propagation, and optical encoding for deformable, phase-coded, and adaptive
+      computational imaging systems.
+  capabilities:
+  - group: Modeling and reconstruction
+    items:
+    - wave-optics propagation
+    - Fourier ptychography
+    - quantitative phase reconstruction
+    - AI-assisted image reconstruction
+  - group: Optical systems
+    items:
+    - lensless and phase-coded imaging
+    - interferometry
+    - OCM/OCT
+    - SHG/TPE microscopy
+  - group: Tools and prototyping
+    items:
+    - Python/PyTorch
+    - MATLAB
+    - ZEMAX
+    - ImageJ
+    - camera/laser/scanner control
+    - optical prototyping
 visibility: public
